@@ -87,7 +87,7 @@
 + Jede Mitgliederversammlung ist bei ordnungsgemässer Einberufung beschlussfähig. Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor der Beschlussfassung nicht angezweifelt worden ist.
 + Beschlüsse über Satzungsänderungen und über die Auflösung des Vereins bedürfen zu ihrer Rechtswirksamkeit der Dreiviertelmehrheit der anwesenden Mitglieder; vor der Abstimmung ist die Beschlussfähigkeit festzustellen. In allen anderen Fällen genügt die einfache Mehrheit.
 + Jedes stimmberechtigte Mitglied hat eine Stimme. Juristische Personen haben einen Stimmberechtigten schriftlich zu bestellen.
-+ Auf Antrag eines stimmberechtigten Mitglieds ist geheim abzustimmen. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
++ Abstimmungen erfolgen auf Antrag eines stimmberechtigten Mitglieds geheim. Wahlen sind immer geheim. Über die Beschlüsse der Mitgliederversammlung ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem Protokollführer zu unterzeichnen ist; das Protokoll ist allen Mitgliedern zugänglich zu machen und auf der nächsten Mitgliederversammlung genehmigen zu lassen.
 + Die Versammlung wird vom Vorstand geleitet, welcher zu Beginn der MV amtiert. Ist dieser verhindert, bestimmt die Versammlung einen Versammlungsleiter. Die Versammlungsleitung kann auf eine oder mehrere andere anwesende Personen übertragen werden. Die Versammlungsleitung kann sich bei der Durchführung der Versammlung Helfern bedienen.
 
 == Der Vorstand 
