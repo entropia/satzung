@@ -54,7 +54,7 @@
 == Rechte und Pflichten der Mitglieder 
 
 + Die Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu nehmen.
-+ Die Mitglieder sind insbesondere berechtigt, die Vereinsräume und Einrichtungen zu nutzen. Das Nähere regelt eine Nutzungsordnung, die von der Mitgliederversammlung beschlossen werden kann.
++ Die Mitglieder sind insbesondere berechtigt, die Vereinsräume und Einrichtungen zu nutzen. Das Nähere regelt eine Nutzungsordnung, die von der Mitgliederversammlung beschlossen werden kann. Die Mitgliederversammlung kann dem Vorstand ermächtigen, eine Nutzungsordnung insgesamt oder für bestimmte Bereiche zu erlassen.
 + Die Mitglieder sind verpflichtet, die satzungsgemässen Zwecke des Vereins zu unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
 
 == Organe des Vereins 
