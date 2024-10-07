@@ -132,3 +132,7 @@ Der Vorstand kann in wichtigen Fragen eine elektronische oder nichtelektronische
 
 + Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Korperschaft zwecks Verwendung für Förderung der Erziehung, Volks- und Berufsbildung einschließlich der Studentenhilfe.
 + Der Übernehmer wird von der Mitgliederversammlung bestimmt.
+
+== Schlussbestimmungen
+
++ Der Vorstand ist befugt, Änderungen und Ergänzungen an der Satzung vorzunehmen, um Auflagen des Registergerichts oder einer Behörde zu entsprechen. Über Änderungen und Ergänzungen sind die Mitglieder unverzüglich in Textform zu informieren.
