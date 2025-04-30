@@ -56,7 +56,7 @@
 == Rechte und Pflichten der Mitglieder
 
 + Ordentliche Mitglieder sind berechtigt, die Leistungen des Vereins in Anspruch zu nehmen.
-+ Ordentliche Mitglieder sind insbesondere berechtigt, die Vereinsräume und Einrichtungen zu nutzen. Das Nähere regelt eine Nutzungsordnung, die von der Mitgliederversammlung beschlossen werden kann.
++ Ordentliche Mitglieder sind insbesondere berechtigt, die Vereinsräume und Einrichtungen zu nutzen. Das Nähere regelt eine Nutzungsordnung, die von der Mitgliederversammlung beschlossen werden kann. Die Mitgliederversammlung kann den Vorstand ermächtigen, Änderungen und Ergänzungen an der Nutzungsordnung insgesamt oder für bestimmte Bereiche vorzunehmen.
 + Die Mitglieder sind verpflichtet, die satzungsgemässen Zwecke des Vereins zu unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge zu zahlen.
 + Ordentliche Mitglieder und Ehrenmitglieder haben in der Mitgliedsversammlung das aktive und passive Wahlrecht. Es wird von ihnen erwartet, dass sie an Abstimmungen teilnehmen.
 + Fördermitglieder können in der Mitgliederversammlung Anträge stellen und werden ebenso umfassend wie ordentliche Mitglieder und Ehrenmitglieder über alle Beschlüsse des Vereins informiert.
