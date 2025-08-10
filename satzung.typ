@@ -91,7 +91,7 @@
 
 == Der Vorstand
 
-+ Der Vorstand besteht aus mindestens drei gleichberechtigten Mitgliedern. Sie werden für 2 Jahre gewählt. Wiederwahl ist zulässig. Näheres bestimmt eine von der Mitgliederversammlung zu verabschiedende Wahlordnung. Diese ist von der Mitgliederversammlung zu verabschieden. Der Vorstand bleibt bis zur Wahl eines neuen Vorstands im Amt.
++ Der Vorstand besteht aus mindestens drei gleichberechtigten Mitgliedern. Sie werden für 2 Jahre gewählt. Wiederwahl ist zulässig. Näheres bestimmt eine von der Mitgliederversammlung zu verabschiedende Wahlordnung. Der Vorstand bleibt bis zur Wahl eines neuen Vorstands im Amt.
 + Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB. Gesamtvertretung gilt bei Einstellungen und Entlassungen von Angestellten, gerichtlichen Vertretungen und Anzeigen sowie bei Aufnahme von Krediten.
 + In den Vorstand dürfen nur natürliche Personen gewählt werden.
 + Der Vorstand führt die laufenden Geschäfte des Vereins. Ihm obliegen die Verwaltung des Vereinsvermögens und die Ausführung der Vereinsbeschlüsse.
