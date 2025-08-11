@@ -19,7 +19,7 @@ Der Mitgliedsbeitrag beträgt:
 == Verfahren
 Der Beitrag wird quartalsweise zu Beginn des Quartals erhoben und kann per
 Überweisung entrichtet oder per Lastschriftverfahren eingezogen werden. Es kann
-auch eine Barzahlung an den Kassenwart erfolgen, sofern dieser zustimmt.
+auch eine Barzahlung an den Vorstand erfolgen, sofern dieser zustimmt.
 Ungeachtet der Kündigung der Mitgliedschaft werden bereits vereinnahmte Beiträge
 nicht erstattet.
 
