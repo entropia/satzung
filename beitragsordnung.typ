@@ -2,9 +2,9 @@
 + Höhe des Mitgliedsbeitrags\ Der Mitgliedsbeitrag beträgt:
   - Für normale Mitglieder 25€ monatlich
   - Für Mitglieder des CCC e.V. 19€ monatlich
-  - Für Schüler, Studenten, Auszubildende und Menschen mit geringem Einkommen
-    15€ monatlich
+  - Für Schüler, Studenten, und Auszubildende 15€ monatlich
   - Für Fördermitglieder mindestens 6€ monatlich
+  - Für Menschen mit geringem Einkommen 5€ monatlich
   - Ehrenmitglieder sind laut Satzung beitragsfrei
 + Verfahren\
   Der Beitrag wird quartalsweise zu Beginn des Quartals erhoben und kann per
