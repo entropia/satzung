@@ -119,6 +119,11 @@
 + Die Mitglieder sind verpflichtet, die satzungsgemässen Zwecke des Vereins zu
   unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge
   zu zahlen.
++ Mitglieder haben einen Anspruch auf Ersatz von Aufwendungen, welche ihnen im
+  Rahmen ihrer Tätigkeit für den Verein entstanden sind. Dies gilt jedoch nur,
+  wenn sie dazu vom Vorstand beauftragt wurden. Der Nachweis erfolgt über
+  entsprechende Einzelbelege. Das Nähere regelt eine entsprechende
+  Erstattungsordnung.
 + Ordentliche Mitglieder und Ehrenmitglieder haben in der Mitgliedsversammlung
   das aktive und passive Wahlrecht. Es wird von ihnen erwartet, dass sie an
   Abstimmungen teilnehmen.
@@ -144,6 +149,7 @@
   - die Genehmigung der Beitragsordnung,
   - die Genehmigung der Nutzungsordnung,
   - die Genehmigung der Wahlordnung,
+  - die Genehmigung der Erstattungsordnung,
   - die Richtlinie über die Erstattung von Reisekosten und Auslagen,
   - Anträge des Vorstandes und der Mitglieder,
   - die Ernennung von Ehrenmitgliedern,
