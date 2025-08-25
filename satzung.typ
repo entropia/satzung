@@ -208,9 +208,9 @@
 + Der Vorstand kann Beiräte einrichten und auflösen, die für den Verein beratend
   und unterstützend tätig werden; in die Beiräte können auch Nicht-Mitglieder
   berufen werden.
-+ Bei Ausscheiden eines Vorstandsmitglieds müssen innerhalb von 2 Monaten
-  Neuwahlen einberufen werden. Zwischenzeitlich wird vom verbleibenden Vorstand
-  ein Stellvertreter bestellt.
++ Bei Ausscheiden eines Vorstandsmitglieds müssen innerhalb von 2 Monaten Wahlen
+  einberufen werden. Der gesamte Vorstand wird neu gewählt. Zwischenzeitlich
+  wird vom verbleibenden Vorstand ein Stellvertreter bestellt.
 
 == Beschlussfassung des Vorstands
 
