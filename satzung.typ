@@ -181,10 +181,10 @@
 == Der Vorstand
 
 + Der Vorstand besteht aus mindestens drei gleichberechtigten Mitgliedern. Sie
-  werden für 2 Jahre gewählt. Wiederwahl ist zulässig. Näheres bestimmt eine von
-  der Mitgliederversammlung zu verabschiedende Wahlordnung. Diese ist von der
-  Mitgliederversammlung zu verabschieden. Der Vorstand bleibt bis zur Wahl eines
-  neuen Vorstands im Amt.
+  werden jeweils für 2 Jahre gewählt. Das gilt auch für Nachwahlen. Wiederwahl
+  ist zulässig. Näheres bestimmt eine von der Mitgliederversammlung zu
+  verabschiedende Wahlordnung. Diese ist von der Mitgliederversammlung zu
+  verabschieden. Der Vorstand bleibt bis zur Wahl eines neuen Vorstands im Amt.
 + Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB.
   Gesamtvertretung gilt bei Einstellungen und Entlassungen von Angestellten,
   gerichtlichen Vertretungen und Anzeigen sowie bei Aufnahme von Krediten.
@@ -208,8 +208,9 @@
 + Der Vorstand kann Beiräte einrichten und auflösen, die für den Verein beratend
   und unterstützend tätig werden; in die Beiräte können auch Nicht-Mitglieder
   berufen werden.
-+ Bei Ausscheiden eines Vorstandsmitglieds müssen innerhalb von 2 Monaten
-  Neuwahlen einberufen werden. Zwischenzeitlich wird vom verbleibenden Vorstand
++ Bei Ausscheiden eines Vorstandsmitglieds müssen innerhalb von 2 Monaten Wahlen
+  einberufen werden. Der verbleibende Vorstand bleibt bis zum Ende seiner
+  regulären Amtszeit im Amt. Zwischenzeitlich wird vom verbleibenden Vorstand
   ein Stellvertreter bestellt.
 
 == Beschlussfassung des Vorstands
