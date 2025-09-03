@@ -186,8 +186,9 @@
   Mitgliederversammlung zu verabschieden. Der Vorstand bleibt bis zur Wahl eines
   neuen Vorstands im Amt.
 + Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB.
-  Gesamtvertretung gilt bei Einstellungen und Entlassungen von Angestellten,
-  gerichtlichen Vertretungen und Anzeigen sowie bei Aufnahme von Krediten.
+  Mehrheitliche Vertretung gilt bei Einstellungen und Entlassungen von
+  Angestellten, der Erhebung oder Abwehr von Klagen, der Abgabe von
+  Strafanzeigen sowie bei Aufnahme von Krediten.
 + In den Vorstand dürfen nur natürliche Personen gewählt werden.
 + Der Vorstand führt die laufenden Geschäfte des Vereins. Ihm obliegen die
   Verwaltung des Vereinsvermögens und die Ausführung der Vereinsbeschlüsse.
