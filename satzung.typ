@@ -266,12 +266,6 @@ festgelegt. Nutzungsentgelte, Schutzgebühren u.a. regelt der Vorstand.
 + Eine Abschrift dieser Niederschrift wird den Mitgliedern in Textform
   zugesandt.
 
-== Mitgliederbefragung
-
-Der Vorstand kann in wichtigen Fragen eine elektronische oder nichtelektronische
-Mitgliederbefragung durchführen. Eine solche Befragung ist auch auf Antrag eines
-Drittels der Mitglieder durchzuführen.
-
 == Auflösung
 
 + Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das
