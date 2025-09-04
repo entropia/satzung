@@ -103,6 +103,7 @@
 + Im begründeten Einzelfall kann für ein Mitglied durch Vorstandsbeschluss
   ein(e) von der Beitragsordnung abweichende(r) Beitrag und Beitragszahlung
   festgesetzt werden.
++ Der Vorstand kann Mitgliedsbeiträge stunden, ermäßigen und erlassen.
 + Bei Beendigung der Mitgliedschaft verfällt der für das laufende Jahr gezahlte
   Beitrag. Es besteht kein Anspruch auf Rückerstattung.
 + Ehrenmitglieder sind von Beitragsleistungen befreit.
