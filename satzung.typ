@@ -221,12 +221,12 @@
   aller Vorstandsmitglieder kann jederzeit je Veranlassung auf die Einhaltung
   von Ladungsfristen verzichtet werden.
 + Der Vorstand ist beschlussfähig, wenn über die Hälfte seiner Mitglieder
-  anwesend sind. Beschlüsse werden mit einfacher Mehrheit der anwesenden
-  Mitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
-  Beschlüsse können auch im Umlaufverfahren, fernmündlich, telegrafisch,
-  fernschriftlich oder im Rahmen von Netzkonferenzen o.Ä. gefasst werden. In
-  diesen Fällen ist unverzüglich ein Beschlussprotokoll anzufertigen und allen
-  Vorstandsmitgliedern in Textform zuzusenden. Auf Verlangen von einem
+  anwesend sind. Beschlüsse werden mit einfacher Mehrheit der
+  Vorstandsmitglieder gefasst. Bei Stimmengleichheit gilt ein Antrag als
+  abgelehnt. Beschlüsse können auch im Umlaufverfahren, fernmündlich,
+  telegrafisch, fernschriftlich oder im Rahmen von Netzkonferenzen o.Ä. gefasst
+  werden. In diesen Fällen ist unverzüglich ein Beschlussprotokoll anzufertigen
+  und allen Vorstandsmitgliedern in Textform zuzusenden. Auf Verlangen von einem
   Vorstandsmitglied sind derartige Beschlüsse bei der nächsten Vorstandssitzung
   zu bestätigen. Geschieht dies nicht, so gelten sie als aufgehoben. Im übrigen
   soll ein allgemeines Sitzungsprotokoll angefertigt und vom Sitzungsleiter
