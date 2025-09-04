@@ -64,10 +64,11 @@
 == Erwerb der Mitgliedschaft
 
 + Die Gründer sind Mitglieder des Vereins. Über die Aufnahme weiterer Mitglieder
-  entscheidet der Vorstand.
+  entscheidet der Vorstand und kann diese ohne Begründung ablehnen.
 + Der Beitrittsantrag erfolgt in Textform gegenüber dem Vorstand. Über die
   Annahme des Beitrittsantrages entscheidet der Vorstand. Die Mitgliedschaft
   beginnt mit der Annahme des Beitrittsantrages.
++ Ein Anspruch auf Aufnahme besteht nicht.
 
 == Verlust der Mitgliedschaft
 
