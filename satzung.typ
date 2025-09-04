@@ -10,11 +10,9 @@
 
 == Name, Eintragung, Sitz, Geschäftsjahr
 
-+ Der Verein trägt den Namen „Entropia“. Der Verein soll in das Vereinsregister
-  eingetragen werden. Nach der Eintragung führt er den Zusatz „e.V.“.
++ Der Verein trägt den Namen „Entropia e.V.“.
 + Der Verein hat seinen Sitz in Karlsruhe. Das Geschäftsjahr des Vereins ist das
-  Kalenderjahr. Das erste Geschäftsjahr beginnt mit dem Tag der Gründung und
-  endet am 31.12.1999.
+  Kalenderjahr.
 
 == Vereinszweck
 
