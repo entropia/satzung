@@ -80,14 +80,17 @@
   einer Kündigungsfrist von einem Monat zulässig.
 + Ein Mitglied kann durch Beschluss des Vorstandes ausgeschlossen werden, wenn
   es das Ansehen des Vereins schädigt, in schwerwiegender Weise gegen diese
-  Satzung oder gegen eine Vereinsordnung verstößt oder ein sonstiger wichtiger
-  Grund vorliegt.\
-  Das Mitglied ist vor einem derartigen Ausschluss vom Vorstand zu hören. Ein
-  Mitglied kann ferner durch Beschluss des Vorstandes ausgeschlossen werden,
-  wenn es trotz zweimaliger Mahnung mit der Zahlung von mindestens zwei
-  Vereinsbeiträgen im Rückstand ist. Der Ausschlussbeschluss darf erst
-  bekanntgegeben werden, wenn seit der Absendung der zweiten Mahnung mindestens
-  drei Monate vergangen sind, ohne dass die Beitragsrückstände beglichen wurden.
+  Satzung oder gegen eine Vereinsordnung verstößt, sich innerhalb des Vereins
+  wiederholt respektlos oder beleidigend äußert, sich gruppenbezogen
+  menschenfeindlich betätigt, seinen Beitragsverpflichtungen nicht nachkommt
+  oder wenn ein sonstiger wichtiger Grund vorliegt. Der Vorstand muss dem
+  auszuschließenden Mitglied den Beschluss in Textform unter Angabe von Gründen
+  mitteilen und ihm auf Verlangen eine Anhörung gewähren. Ein Mitglied kann
+  ferner durch Beschluss des Vorstandes ausgeschlossen werden, wenn es trotz
+  zweimaliger Mahnung mit der Zahlung von mindestens zwei Vereinsbeiträgen im
+  Rückstand ist. Der Ausschlussbeschluss darf erst bekanntgegeben werden, wenn
+  seit der Absendung der zweiten Mahnung mindestens drei Monate vergangen sind,
+  ohne dass die Beitragsrückstände beglichen wurden.
 + Gegen den Beschluss des Vorstandes ist die Anrufung der Mitgliederversammlung
   zulässig. Die Anrufung muss innerhalb einer Frist von vier Wochen ab Zugang
   des Ausschließungsbeschlusses schriftlich beim Vorstand eingelegt werden. Bis
