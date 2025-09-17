@@ -165,6 +165,12 @@
   vor der Abstimmung ist die Beschlussfähigkeit festzustellen. In allen anderen
   Fällen genügt die einfache Mehrheit.
 + Jedes stimmberechtigte Mitglied hat eine Stimme.
++ Stimmberechtigte Mitglieder können ihre Stimme sowohl für Abstimmungen als
+  auch für Wahlen mit einer schriftlichen Vollmacht übertragen. Bevollmächtigt
+  werden können nur andere stimmberechtigte Mitglieder. Ein Mitglied kann
+  mittels Vollmachten höchstens zwei weitere Stimmberechtigungen wahrnehmen.
+  Eine Vollmacht muss spezifisch für eine Mitgliederversammlung ausgestellt
+  sein.
 + Abstimmungen erfolgen auf Antrag eines stimmberechtigten Mitglieds geheim.
   Wahlen erfolgen immer geheim. Über die Beschlüsse der Mitgliederversammlung
   ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem
