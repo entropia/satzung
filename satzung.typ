@@ -94,6 +94,11 @@
   zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft. Erfolgt keine
   Anrufung oder verstreicht die Anrufungsfrist, gilt die Mitgliedschaft als
   beendet.
++ Ein Mitglied kann durch Beschluss des Vorstandes gestrichen werden, wenn keine
+  Möglichkeit zur Kontaktaufnahme mehr besteht. Dies ist insbesondere dann der
+  Fall, wenn keine gültige E-Mail-Adresse mehr vorliegt, Mitteilungen an die
+  bekannte Anschrift für mindestens vier Wochen unbeantwortet bleiben und keine
+  neue Anschrift über die Melderegister ermittelt werden kann.
 
 == Mitgliedsbeiträge
 
