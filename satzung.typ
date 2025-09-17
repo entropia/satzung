@@ -119,9 +119,11 @@
 + Die Mitglieder sind verpflichtet, die satzungsgemässen Zwecke des Vereins zu
   unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge
   zu zahlen.
-+ Ordentliche Mitglieder und Ehrenmitglieder haben in der Mitgliedsversammlung
-  das aktive und passive Wahlrecht. Es wird von ihnen erwartet, dass sie an
-  Abstimmungen teilnehmen.
++ Ordentliche Mitglieder und Ehrenmitglieder haben in der Mitgliederversammlung
+  das passive Wahlrecht. Sie haben das aktive Wahlrecht, wenn sie zum Zeitpunkt
+  der Mitgliederversammlung mit ihren Mitgliedsbeiträgen nicht mehr als drei
+  Monate im Verzug sind. Es wird von ihnen erwartet, dass sie an Abstimmungen
+  teilnehmen.
 + Fördermitglieder können in der Mitgliederversammlung Anträge stellen und
   werden ebenso umfassend wie ordentliche Mitglieder und Ehrenmitglieder über
   alle Beschlüsse des Vereins informiert.
