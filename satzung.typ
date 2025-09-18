@@ -148,15 +148,18 @@
   - Anträge des Vorstandes und der Mitglieder,
   - die Ernennung von Ehrenmitgliedern,
   - die Auflösung des Vereins.
-+ Die ordentliche Mitgliederversammlung findet jedes Jahr statt.
-  Ausserordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes
-  abgehalten oder wenn die Interessen des Vereins dies erfordern. Der Vorstand
-  lädt in Textform zur Mitgliederversammlung ein. Die Einladung muss mindestens
-  14 Tage vor dem Versammlungstag abgesendet werden. Hierbei ist die
-  Tagesordnung bekanntzugeben und ihr die nötigen Informationen anzuhängen.
-  Anträge zur Tagesordnung sind mindestens drei Tage vor der
-  Mitgliederversammlung beim Vorstand einzureichen. Über die Behandlung von
-  Initiativanträgen entscheidet die Mitgliederversammlung.
++ Die ordentliche Mitgliederversammlung findet ein Mal im Kalenderjahr statt.
+  Außerordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes
+  abgehalten oder wenn die Interessen des Vereins dies erfordern. Die
+  Mitgliederversammlung ist vom Vorstand schriftlich unter Einhaltung einer
+  Frist von 28 Tagen durch Mitteilung der vorläufigen Tagesordnung anzukündigen
+  und unter Einhaltung einer Frist von 14 Tagen zu laden. Mit der Einladung ist
+  die festgesetze Tagesordnung bekannt zu geben. Anträge müssen unter Einhaltung
+  einer Frist von 15 Tagen beim Vorstand eingereicht werden. Es können nur zu
+  solchen Tagesordnungspunkten Beschlüsse gefasst werden, die in der mit der
+  Einladung bekanntgegebenen Tagesordnung aufgeführt sind. Mit dringendem Grund
+  kann für die außerordentliche Mitgliederversammlung auf die Ankündigung
+  verzichtet und direkt geladen werden. Der Grund ist bei Ladung mitzuteilen.
 + Jede Mitgliederversammlung ist bei ordnungsgemässer Einberufung
   beschlussfähig. Beschlüsse sind jedoch gültig, wenn die Beschlussfähigkeit vor
   der Beschlussfassung nicht angezweifelt worden ist.
