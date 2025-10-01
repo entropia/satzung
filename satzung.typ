@@ -94,6 +94,11 @@
   zum Beschluss der Mitgliederversammlung ruht die Mitgliedschaft. Erfolgt keine
   Anrufung oder verstreicht die Anrufungsfrist, gilt die Mitgliedschaft als
   beendet.
++ Ein Mitglied kann durch Beschluss des Vorstandes gestrichen werden, wenn keine
+  Möglichkeit zur Kontaktaufnahme mehr besteht. Dies ist insbesondere dann der
+  Fall, wenn keine gültige E-Mail-Adresse mehr vorliegt, Mitteilungen an die
+  bekannte Anschrift für mindestens vier Wochen unbeantwortet bleiben und keine
+  neue Anschrift über die Melderegister ermittelt werden kann.
 
 == Mitgliedsbeiträge
 
@@ -119,6 +124,11 @@
 + Die Mitglieder sind verpflichtet, die satzungsgemässen Zwecke des Vereins zu
   unterstützen und zu fördern. Sie sind verpflichtet, die festgesetzten Beiträge
   zu zahlen.
++ Mitglieder haben einen Anspruch auf Ersatz von Aufwendungen, welche ihnen im
+  Rahmen ihrer Tätigkeit für den Verein entstanden sind. Dies gilt jedoch nur,
+  wenn sie dazu vom Vorstand beauftragt wurden. Der Nachweis erfolgt über
+  entsprechende Einzelbelege. Das Nähere regelt eine entsprechende
+  Erstattungsordnung.
 + Ordentliche Mitglieder und Ehrenmitglieder haben in der Mitgliedsversammlung
   das aktive und passive Wahlrecht. Es wird von ihnen erwartet, dass sie an
   Abstimmungen teilnehmen.
@@ -144,6 +154,7 @@
   - die Genehmigung der Beitragsordnung,
   - die Genehmigung der Nutzungsordnung,
   - die Genehmigung der Wahlordnung,
+  - die Genehmigung der Erstattungsordnung,
   - die Richtlinie über die Erstattung von Reisekosten und Auslagen,
   - Anträge des Vorstandes und der Mitglieder,
   - die Ernennung von Ehrenmitgliedern,
@@ -165,6 +176,12 @@
   vor der Abstimmung ist die Beschlussfähigkeit festzustellen. In allen anderen
   Fällen genügt die einfache Mehrheit.
 + Jedes stimmberechtigte Mitglied hat eine Stimme.
++ Stimmberechtigte Mitglieder können ihre Stimme sowohl für Abstimmungen als
+  auch für Wahlen mit einer schriftlichen Vollmacht übertragen. Bevollmächtigt
+  werden können nur andere stimmberechtigte Mitglieder. Ein Mitglied kann
+  mittels Vollmachten höchstens zwei weitere Stimmberechtigungen wahrnehmen.
+  Eine Vollmacht muss spezifisch für eine Mitgliederversammlung ausgestellt sein
+  und zu Beginn selbiger der Versammlungsleitung vorgelegt werden.
 + Abstimmungen erfolgen auf Antrag eines stimmberechtigten Mitglieds geheim.
   Wahlen erfolgen immer geheim. Über die Beschlüsse der Mitgliederversammlung
   ist ein Protokoll anzufertigen, das vom Versammlungsleiter und dem
@@ -181,10 +198,12 @@
 == Der Vorstand
 
 + Der Vorstand besteht aus mindestens drei gleichberechtigten Mitgliedern. Sie
-  werden für 2 Jahre gewählt. Wiederwahl ist zulässig. Näheres bestimmt eine von
-  der Mitgliederversammlung zu verabschiedende Wahlordnung. Diese ist von der
-  Mitgliederversammlung zu verabschieden. Der Vorstand bleibt bis zur Wahl eines
-  neuen Vorstands im Amt.
+  werden jeweils für 2 Jahre gewählt. Das gilt auch für Nachwahlen. Wiederwahl
+  ist zulässig. Die gemeinsame Aufstellung und Wahl mehrerer Kandidaten für den
+  Vorstand ist zulässig (Blockwahl). Dabei ist die Blockwahl des gesamten
+  Vorstandes, aber auch von Teilen des Vorstandes zulässig. Näheres bestimmt
+  eine von der Mitgliederversammlung zu verabschiedende Wahlordnung. Der
+  Vorstand bleibt bis zur Wahl eines neuen Vorstands im Amt.
 + Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB.
   Gesamtvertretung gilt bei Einstellungen und Entlassungen von Angestellten,
   gerichtlichen Vertretungen und Anzeigen sowie bei Aufnahme von Krediten.
@@ -208,8 +227,9 @@
 + Der Vorstand kann Beiräte einrichten und auflösen, die für den Verein beratend
   und unterstützend tätig werden; in die Beiräte können auch Nicht-Mitglieder
   berufen werden.
-+ Bei Ausscheiden eines Vorstandsmitglieds müssen innerhalb von 2 Monaten
-  Neuwahlen einberufen werden. Zwischenzeitlich wird vom verbleibenden Vorstand
++ Bei Ausscheiden eines Vorstandsmitglieds müssen innerhalb von 2 Monaten Wahlen
+  einberufen werden. Der verbleibende Vorstand bleibt bis zum Ende seiner
+  regulären Amtszeit im Amt. Zwischenzeitlich wird vom verbleibenden Vorstand
   ein Stellvertreter bestellt.
 
 == Beschlussfassung des Vorstands
