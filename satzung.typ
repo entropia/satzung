@@ -207,6 +207,8 @@
 + Jedes Vorstandsmitglied ist alleinvertretungsberechtigt im Sinne des §26, BGB.
   Gesamtvertretung gilt bei Einstellungen und Entlassungen von Angestellten,
   gerichtlichen Vertretungen und Anzeigen sowie bei Aufnahme von Krediten.
+  Hiervon ausgenommen ist die Vertretung vor dem Registergericht zwecks
+  Anmeldung von Änderungen.
 + In den Vorstand dürfen nur natürliche Personen gewählt werden.
 + Der Vorstand führt die laufenden Geschäfte des Vereins. Ihm obliegen die
   Verwaltung des Vereinsvermögens und die Ausführung der Vereinsbeschlüsse.
