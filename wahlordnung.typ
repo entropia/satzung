@@ -43,7 +43,7 @@ Beschlussfassung durch die ordentliche Mitgliederversammlung am 21.09.2025.
   Mehrheit erreicht ist der Posten oder Block unbesetzt; es erfolgt ein neuer
   Wahlgang, gegebenenfalls mit neuen Vorschlägen.
 + Wenn mehrere Kandidat*innen oder Listen zur Wahl stehen, wird per *absoluter
-    Mehrheitswahl* gewählt. Gewählt wird in gemeinsamen Wahlgängen für alle
+  Mehrheitswahl* gewählt. Gewählt wird in gemeinsamen Wahlgängen für alle
   Posten. Stimmberechtigte Mitglieder stimmen für so viele Posten wie zu
   vergeben sind, wobei zu berücksichtigen ist wie lang Listen sind. Listen oder
   Kandidat*innen die eine absolute Mehrheit erhalten sind gewählt. Sollten nicht
