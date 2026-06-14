@@ -68,6 +68,8 @@
 + Der Beitrittsantrag erfolgt in Textform gegenüber dem Vorstand. Über die
   Annahme des Beitrittsantrages entscheidet der Vorstand. Die Mitgliedschaft
   beginnt mit der Annahme des Beitrittsantrages.
++ Diese Mitgliedschaft kann durch Beschluss des Vorstands innerhalb eines Jahres
+  ohne Nennung von Gründen mit sofortiger Wirkung gekündigt werden.
 
 == Verlust der Mitgliedschaft
 
