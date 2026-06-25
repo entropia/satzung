@@ -151,7 +151,7 @@
 + Die ordentliche Mitgliederversammlung findet ein Mal im Kalenderjahr statt.
   Außerordentliche Mitgliederversammlungen werden auf Beschluss des Vorstandes
   abgehalten oder wenn die Interessen des Vereins dies erfordern. Die
-  Mitgliederversammlung ist vom Vorstand schriftlich unter Einhaltung einer
+  Mitgliederversammlung ist vom Vorstand in Textform unter Einhaltung einer
   Frist von 28 Tagen durch Mitteilung der vorläufigen Tagesordnung anzukündigen
   und unter Einhaltung einer Frist von 14 Tagen zu laden. Mit der Einladung ist
   die festgesetze Tagesordnung bekannt zu geben. Anträge müssen unter Einhaltung
