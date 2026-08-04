@@ -29,7 +29,12 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: PDF 
-          path: *.pdf
+          path: |
+            beitragsordnung.pdf 
+            nutzungsordnung.pdf 
+            satzung.pdf 
+            vollmacht-stimme-mv.pdf 
+            wahlordnung.pdf
           retention-days: 7
       - name: Get current date 
         id: date 
@@ -38,4 +43,9 @@ jobs:
         uses: softprops/action-gh-release@v3
         with:
           name: "${{env.DATE}}"
-          files: *.pdf
+          files: | 
+            beitragsordnung.pdf 
+            nutzungsordnung.pdf 
+            satzung.pdf 
+            vollmacht-stimme-mv.pdf 
+            wahlordnung.pdf
