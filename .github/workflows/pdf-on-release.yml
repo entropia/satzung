@@ -43,6 +43,7 @@ jobs:
         uses: softprops/action-gh-release@v3
         with:
           name: "${{env.DATE}}"
+          tag_name: "${{env.DATE}}"
           files: | 
             beitragsordnung.pdf 
             nutzungsordnung.pdf 
