@@ -39,11 +39,20 @@ jobs:
       - name: Get current date 
         id: date 
         run: echo "DATE=$(date +%Y-%m-%d)" >> $GITHUB_ENV
+      - name: Get commit stub 
+        id: stub 
+        run: echo "STUB=$(git rev-parse --short HEAD)" >> $GITHUB_ENV
+      - name: Push tag 
+        id: tag_version 
+        uses: mathieudutour/github-tag-action@v6.2
+        with: 
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          custom_tag: "${{env.DATE}}-${{env.STUB}}"
       - name: Release 
         uses: softprops/action-gh-release@v3
         with:
-          name: "${{env.DATE}}"
-          tag_name: "${{env.DATE}}"
+          tag_name: ${{steps.tag_version.outputs.new_tag}}
+          body: ${{steps.tag_version.outputs.changelog}}
           files: | 
             beitragsordnung.pdf 
             nutzungsordnung.pdf 
